@@ -1,0 +1,30 @@
+
+body {
+  background: url('../imagens/bg.png') no-repeat;
+  background-size:cover;
+
+}
+img{
+  height: 50px;
+  width: 50px;
+
+}
+.figure-caption {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  padding-top: 4px;
+}
+.btn{
+  border-radius: 20px;
+}
+.card {
+  background-color: transparent  0.9;
+  border-radius: 40px;
+
+}
+.label-termos {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  padding-top: 20px;
+  font-size: 14px;
+} /* This Line is to import Google font style */

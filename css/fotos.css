@@ -1,0 +1,40 @@
+body {
+  background: url('../imagens/bg.png') no-repeat;
+  background-size: cover;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
+
+i {
+  padding: 1px;
+}
+
+.span {
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  font-size: 11.5px;
+}
+
+.card {
+  border-radius: 30px;
+  margin-top: 10px;
+  width: 95%;
+}
+.thumb {
+  height: 75px;
+  border: 1px solid #000;
+  margin: 10px 5px 0 0;
+}
+.btn{
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+img{
+  height: 120px;
+  width:120px;
+
+}

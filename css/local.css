@@ -1,0 +1,47 @@
+body {
+  background: url('../imagens/bg.png') no-repeat;
+  background-size:cover;
+
+}
+.card {
+  background-color: transparent  0.9;
+  border-radius: 40px;
+}
+.submeter{
+  bottom: 1%;
+  border-radius: 40px;
+  border-spacing: inherit;
+  border-top-width: thick;
+  text-align: center;
+  position: fixed;
+  width: 95%;
+  margin-left: 15px;
+
+}
+
+.card{
+  top:15px;
+  height:20%;
+}
+
+#main{
+  background-color:white;
+  padding-left: 0;
+   padding-right: 0;
+   margin-left: auto;
+   margin-right: auto;
+   display: flex;
+   width: 350px;
+   height:250px;
+}
+#clear{
+  bottom: 10%;
+  border-radius: 40px;
+  border-spacing: inherit;
+  border-top-width: thick;
+  text-align: center;
+  position: fixed;
+  width: 95%;
+  margin-left: 15px;
+
+}

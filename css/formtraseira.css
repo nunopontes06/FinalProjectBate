@@ -1,0 +1,33 @@
+
+body {
+  background: url('../imagens/bg.png') no-repeat;
+  background-size:cover;
+  margin-top: 1%
+}
+img{
+  height: 50px;
+  width: 50px;
+
+}
+label{
+  font-size: 17px;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+.figure-caption {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  padding-top: 4px;
+}
+.btn{
+  border-radius: 20px;
+}
+.card {
+  background-color: transparent  0.9;
+  border-radius: 40px;
+
+}
